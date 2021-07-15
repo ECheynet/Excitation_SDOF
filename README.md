@@ -1,5 +1,6 @@
 # Harmonic excitation of a SDOF
 
+[![View Harmonic excitation of a SDOF on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/53854-harmonic-excitation-of-a-sdof)
 
 ## Summary
 
