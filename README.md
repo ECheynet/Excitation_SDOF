@@ -19,4 +19,5 @@ The repositroy contains:
 ## References
 
 [1] Daniel J. Inman, Engineering Vibrations, Pearson Education, 2013
+
 [2] Singiresu S. Rao, Mechanical Vibrations,Prentice Hall, 2011
